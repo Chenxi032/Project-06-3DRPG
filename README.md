@@ -1,13 +1,9 @@
-# Project-06
+# Exercise-06b-Animations
 
-# Features added
-a third-person animated character 
-terrain and objects with which you can interact
-PBR texture
-Clear objective
-hand-held item,weapon
-A dialogue-based conversation with one agent 
-# References to resources used in the project
+# References
 
-# Created by
+Textures from: https://freepbr.com/
+Models and animations from: Mixamo.com
+
+# Created by 
 Chenxi Liu
